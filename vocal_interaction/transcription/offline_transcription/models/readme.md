@@ -1,1 +1,1 @@
-Whisper, VOSK or other transcription trained model files will be stored here
+Whisper, VOSK or other transcription trained models files will be stored here
