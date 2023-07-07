@@ -1,10 +1,11 @@
 # Write your tests here
 
 def test1(param1, param2):
-  pass
+    pass
+
 
 def test2(param1, param2):
-  pass
+    pass
 
 
 p1 = 'Example parameter 1'
